@@ -1,4 +1,6 @@
 # Password Strength Tester
+![Tests](https://github.com/MichaelTM0/password-strength-tester/actions/workflows/test.yml/badge.svg)
+
 
 A command-line Python tool that checks a password against a set of strength requirements, the same kind of check you see when creating an account on a website. It shows a pass/fail checklist for each rule and keeps prompting until the password meets all of them.
 
