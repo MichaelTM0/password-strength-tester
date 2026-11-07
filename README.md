@@ -31,6 +31,12 @@ systems you own.
 
 - Python 3.6 or newer
 - No external packages; it uses only the standard library
+  ## Run with Docker
+
+```bash
+docker build -t password-tester .
+docker run -it password-tester
+```
 
 ## Getting Started
 
